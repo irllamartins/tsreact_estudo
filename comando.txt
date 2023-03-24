@@ -1,0 +1,6 @@
+1. Cria pasta
+2. Entra nela
+3. npm init -y
+4. npm add -D typescript
+5. npx tsc --init
+6. npx create-react-app tsreact --template typescript  
