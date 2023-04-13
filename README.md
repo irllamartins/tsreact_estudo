@@ -1,3 +1,7 @@
+# Estudo de Typescript com react, redux e redux-saga
+Lista todos os meus repositorios
+![image](https://user-images.githubusercontent.com/39415559/231780459-d508460e-c055-42df-94c1-611263e72165.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
