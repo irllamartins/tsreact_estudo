@@ -1,5 +1,6 @@
 import { RepositoriesState, RepositoriesTypes } from "./types"
 import { Reducer } from "redux"
+
 const INICIAL_STATE: RepositoriesState = {
     data: [],
     error: false,
